@@ -1,0 +1,41 @@
+MODEL: qwen3:1.7b
+ROWS: 634
+CE_THRESHOLD: 0.0 (provisional - calibrate on review set)
+ACC (correct rate): 0.2256
+EXACT rate: 0.0016
+F1 mean: 0.1818
+CE mean: -1.1386
+CE median: -1.2702
+
+BY SAFETY LABEL (acc, n):
+  high: 0.2450  (n=151)
+  low: 0.2542  (n=236)
+  medium: 0.1862  (n=247)
+
+BY CATEGORY (acc, n):
+  child_safety: 0.1724  (n=29)
+  cold_wave: 0.0000  (n=12)
+  cyclone_prep: 0.1429  (n=14)
+  cyclone_response: 0.2500  (n=32)
+  cyclone_signal: 0.5714  (n=49)
+  early_warning: 0.2500  (n=4)
+  earthquake: 0.1562  (n=32)
+  emergency_contact: 0.1250  (n=8)
+  evacuation: 0.4444  (n=18)
+  first_aid: 0.1607  (n=56)
+  flood_after: 0.2069  (n=29)
+  flood_health: 0.1545  (n=123)
+  flood_prep: 0.1765  (n=34)
+  flood_risk: 0.5500  (n=20)
+  flood_water: 0.1569  (n=51)
+  heatwave: 0.2500  (n=16)
+  landslide: 0.1875  (n=16)
+  lightning: 0.1250  (n=16)
+  livestock: 0.4000  (n=5)
+  relief: 0.0000  (n=12)
+  river_erosion: 0.0000  (n=8)
+  shelter: 0.4762  (n=21)
+  thunderstorm: 0.0000  (n=12)
+  vulnerable_groups: 0.2941  (n=17)
+
+DANGER rows (high-safety & wrong): 114

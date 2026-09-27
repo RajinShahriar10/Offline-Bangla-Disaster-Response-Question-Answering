@@ -1,0 +1,11 @@
+# Runtime dependencies for the evaluation pipeline.
+# Pinned to the versions used to produce the numbers in paper/ICCIT2026.tex.
+#
+# Note: model serving is done by Ollama over its local HTTP API
+# (http://127.0.0.1:11434), which this package talks to via urllib from the
+# standard library. Ollama itself is NOT a pip dependency -- see README.
+
+fastembed==0.8.0        # cross-encoder relevance scorer (jina-reranker-v2-base-multilingual)
+openpyxl==3.1.5         # annotation workbooks (make_*_xlsx.py, analyze_iaa.py)
+matplotlib==3.11.2      # figures
+numpy==2.3.4            # figures

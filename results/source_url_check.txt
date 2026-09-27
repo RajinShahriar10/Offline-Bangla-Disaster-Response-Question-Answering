@@ -1,0 +1,177 @@
+SOURCE-URL CHECK (116 distinct urls)
+
+  HTTP 200 : 81
+  HTTP 403 : 29
+  HTTP 202 : 6
+  => ok(2xx)=87  non-2xx=29
+
+NON-2xx URLS (id, category, source, url):
+  132 | child_safety | WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement) | 403 | https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef
+  133 | child_safety | WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement) | 403 | https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef
+  135 | cyclone_response | UNDRR -- Early Warnings for All: Bangladesh (Cyclone Preparedness Programme) | 403 | https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all/bangladesh
+  136 | cyclone_response | UNDRR -- Early Warnings for All: Bangladesh (Cyclone Preparedness Programme) | 403 | https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all/bangladesh
+  137 | cyclone_response | UNDRR -- Early Warnings for All: Bangladesh (Cyclone Preparedness Programme) | 403 | https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all/bangladesh
+  138 | cyclone_response | UNDRR -- Early Warnings for All: Bangladesh (Cyclone Preparedness Programme) | 403 | https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all/bangladesh
+  143 | cyclone_response | Oceanography (ScienceDirect) -- Tropical cyclones over the Bay of Bengal review | 403 | https://www.sciencedirect.com/org/science/article/pii/S2771037825000297
+  144 | cyclone_response | Oceanography (ScienceDirect) -- Tropical cyclones over the Bay of Bengal review | 403 | https://www.sciencedirect.com/org/science/article/pii/S2771037825000297
+  145 | cyclone_response | Oceanography (ScienceDirect) -- Tropical cyclones over the Bay of Bengal review | 403 | https://www.sciencedirect.com/org/science/article/pii/S2771037825000297
+  146 | cyclone_response | Oceanography (ScienceDirect) -- Tropical cyclones over the Bay of Bengal review | 403 | https://www.sciencedirect.com/org/science/article/pii/S2771037825000297
+  147 | cyclone_response | GFDRR / World Bank -- Cyclone Sidr in Bangladesh: Damage, Loss and Needs Assessment | 403 | https://www.gfdrr.org/sites/default/files/2275_CycloneSidrinBangladeshExecutiveSummary.pdf
+  148 | cyclone_response | GFDRR / World Bank -- Cyclone Sidr in Bangladesh: Damage, Loss and Needs Assessment | 403 | https://www.gfdrr.org/sites/default/files/2275_CycloneSidrinBangladeshExecutiveSummary.pdf
+  149 | cyclone_response | GFDRR / World Bank -- Cyclone Sidr in Bangladesh: Damage, Loss and Needs Assessment | 403 | https://www.gfdrr.org/sites/default/files/2275_CycloneSidrinBangladeshExecutiveSummary.pdf
+  150 | cyclone_response | GFDRR / World Bank -- Cyclone Sidr in Bangladesh: Damage, Loss and Needs Assessment | 403 | https://www.gfdrr.org/sites/default/files/2275_CycloneSidrinBangladeshExecutiveSummary.pdf
+  151 | shelter | UNDRR News -- Bangladesh goes beyond cyclones | 403 | https://www.undrr.org/news/bangladesh-goes-beyond-cyclones
+  152 | shelter | UNDRR News -- Bangladesh goes beyond cyclones | 403 | https://www.undrr.org/news/bangladesh-goes-beyond-cyclones
+  153 | shelter | UNDRR News -- Bangladesh goes beyond cyclones | 403 | https://www.undrr.org/news/bangladesh-goes-beyond-cyclones
+  154 | shelter | UNDRR News -- Bangladesh goes beyond cyclones | 403 | https://www.undrr.org/news/bangladesh-goes-beyond-cyclones
+  195 | flood_risk | IFRC -- Millions in Bangladesh impacted by one of the worst floodings ever seen | 403 | https://www.ifrc.org/press-release/millions-bangladesh-impacted-one-worst-floodings-ever-seen
+  196 | flood_risk | IFRC -- Millions in Bangladesh impacted by one of the worst floodings ever seen | 403 | https://www.ifrc.org/press-release/millions-bangladesh-impacted-one-worst-floodings-ever-seen
+  197 | flood_risk | IFRC -- Millions in Bangladesh impacted by one of the worst floodings ever seen | 403 | https://www.ifrc.org/press-release/millions-bangladesh-impacted-one-worst-floodings-ever-seen
+  198 | flood_risk | IFRC -- Millions in Bangladesh impacted by one of the worst floodings ever seen | 403 | https://www.ifrc.org/press-release/millions-bangladesh-impacted-one-worst-floodings-ever-seen
+  291 | flood_health | ScienceDirect -- The 2023 dengue fatality in Bangladesh: spatial and demographic patterns | 403 | https://www.sciencedirect.com/science/article/pii/S277270762500089X
+  292 | flood_health | ScienceDirect -- The 2023 dengue fatality in Bangladesh: spatial and demographic patterns | 403 | https://www.sciencedirect.com/science/article/pii/S277270762500089X
+  293 | flood_health | ScienceDirect -- The 2023 dengue fatality in Bangladesh: spatial and demographic patterns | 403 | https://www.sciencedirect.com/science/article/pii/S277270762500089X
+  294 | flood_health | ScienceDirect -- The 2023 dengue fatality in Bangladesh: spatial and demographic patterns | 403 | https://www.sciencedirect.com/science/article/pii/S277270762500089X
+  307 | first_aid | American Heart Association -- Guidelines 2005 Part 10.3: Drowning | 403 | https://doi.org/10.1161/circulationaha.105.166565
+  308 | first_aid | American Heart Association -- Guidelines 2005 Part 10.3: Drowning | 403 | https://doi.org/10.1161/circulationaha.105.166565
+  309 | first_aid | American Heart Association -- Guidelines 2005 Part 10.3: Drowning | 403 | https://doi.org/10.1161/circulationaha.105.166565
+  310 | first_aid | American Heart Association -- Guidelines 2005 Part 10.3: Drowning | 403 | https://doi.org/10.1161/circulationaha.105.166565
+  347 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  348 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  349 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  350 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  363 | first_aid | U.S. CDC -- Emergency Wound Care after a Natural Disaster | 403 | https://www.cdc.gov/disasters/hurricanes/pdf/woundcare.pdf
+  364 | first_aid | U.S. CDC -- Emergency Wound Care after a Natural Disaster | 403 | https://www.cdc.gov/disasters/hurricanes/pdf/woundcare.pdf
+  365 | first_aid | U.S. CDC -- Emergency Wound Care after a Natural Disaster | 403 | https://www.cdc.gov/disasters/hurricanes/pdf/woundcare.pdf
+  366 | first_aid | U.S. CDC -- Emergency Wound Care after a Natural Disaster | 403 | https://www.cdc.gov/disasters/hurricanes/pdf/woundcare.pdf
+  387 | flood_health | U.S. CDC -- How Dengue Spreads / Aedes Mosquito Life Cycle | 403 | https://www.cdc.gov/dengue/transmission/index.html
+  388 | flood_health | U.S. CDC -- How Dengue Spreads / Aedes Mosquito Life Cycle | 403 | https://www.cdc.gov/dengue/transmission/index.html
+  389 | flood_health | U.S. CDC -- How Dengue Spreads / Aedes Mosquito Life Cycle | 403 | https://www.cdc.gov/dengue/transmission/index.html
+  390 | flood_health | U.S. CDC -- How Dengue Spreads / Aedes Mosquito Life Cycle | 403 | https://www.cdc.gov/dengue/transmission/index.html
+  395 | flood_health | U.S. CDC -- Infant and Child Feeding in Emergencies Toolkit (powdered infant formula) | 403 | https://cdc.gov/infant-feeding-emergencies-toolkit/php/powdered-infant-formula.html
+  396 | flood_health | U.S. CDC -- Infant and Child Feeding in Emergencies Toolkit (powdered infant formula) | 403 | https://cdc.gov/infant-feeding-emergencies-toolkit/php/powdered-infant-formula.html
+  397 | flood_health | U.S. CDC -- Infant and Child Feeding in Emergencies Toolkit (powdered infant formula) | 403 | https://cdc.gov/infant-feeding-emergencies-toolkit/php/powdered-infant-formula.html
+  398 | flood_health | U.S. CDC -- Infant and Child Feeding in Emergencies Toolkit (powdered infant formula) | 403 | https://cdc.gov/infant-feeding-emergencies-toolkit/php/powdered-infant-formula.html
+  423 | flood_after | U.S. CDC -- Keep Food Safe After a Disaster or Emergency | 403 | https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+  424 | flood_after | U.S. CDC -- Keep Food Safe After a Disaster or Emergency | 403 | https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+  425 | flood_after | U.S. CDC -- Keep Food Safe After a Disaster or Emergency | 403 | https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+  426 | flood_after | U.S. CDC -- Keep Food Safe After a Disaster or Emergency | 403 | https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html
+  427 | flood_after | U.S. CDC / EPA -- Homeowner's and Renter's Guide to Mold Cleanup After Disasters | 403 | https://www.cdc.gov/mold/pdfs/homeowners_and_renters_guide.pdf
+  428 | flood_after | U.S. CDC / EPA -- Homeowner's and Renter's Guide to Mold Cleanup After Disasters | 403 | https://www.cdc.gov/mold/pdfs/homeowners_and_renters_guide.pdf
+  429 | flood_after | U.S. CDC / EPA -- Homeowner's and Renter's Guide to Mold Cleanup After Disasters | 403 | https://www.cdc.gov/mold/pdfs/homeowners_and_renters_guide.pdf
+  430 | flood_after | U.S. CDC / EPA -- Homeowner's and Renter's Guide to Mold Cleanup After Disasters | 403 | https://www.cdc.gov/mold/pdfs/homeowners_and_renters_guide.pdf
+  447 | first_aid | Mayo Clinic News Network -- Immediate first aid for a fracture | 403 | https://newsnetwork.mayoclinic.org/discussion/home-remedies-immediate-first-aid-for-a-fracture/
+  448 | first_aid | Mayo Clinic News Network -- Immediate first aid for a fracture | 403 | https://newsnetwork.mayoclinic.org/discussion/home-remedies-immediate-first-aid-for-a-fracture/
+  449 | first_aid | Mayo Clinic News Network -- Immediate first aid for a fracture | 403 | https://newsnetwork.mayoclinic.org/discussion/home-remedies-immediate-first-aid-for-a-fracture/
+  450 | first_aid | Mayo Clinic News Network -- Immediate first aid for a fracture | 403 | https://newsnetwork.mayoclinic.org/discussion/home-remedies-immediate-first-aid-for-a-fracture/
+  471 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  472 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  473 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  474 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  483 | flood_after | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  484 | flood_after | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  485 | flood_after | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  486 | flood_after | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  487 | flood_prep | Ready.gov -- Make a Plan (family emergency plan) | 403 | https://www.ready.gov/kids/make-a-plan
+  488 | flood_prep | Ready.gov -- Make a Plan (family emergency plan) | 403 | https://www.ready.gov/kids/make-a-plan
+  489 | flood_prep | Ready.gov -- Make a Plan (family emergency plan) | 403 | https://www.ready.gov/kids/make-a-plan
+  490 | flood_prep | Ready.gov -- Make a Plan (family emergency plan) | 403 | https://www.ready.gov/kids/make-a-plan
+  491 | flood_prep | U.S. CDC -- Preparing for Floods | 403 | https://www.cdc.gov/floods/safety/index.html
+  492 | flood_prep | U.S. CDC -- Preparing for Floods | 403 | https://www.cdc.gov/floods/safety/index.html
+  493 | flood_prep | U.S. CDC -- Preparing for Floods | 403 | https://www.cdc.gov/floods/safety/index.html
+  494 | flood_prep | U.S. CDC -- Preparing for Floods | 403 | https://www.cdc.gov/floods/safety/index.html
+  495 | child_safety | WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement) | 403 | https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef
+  496 | child_safety | WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement) | 403 | https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef
+  497 | child_safety | WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement) | 403 | https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef
+  498 | child_safety | WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement) | 403 | https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef
+  499 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+  500 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+  501 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+  502 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+  511 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  512 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  513 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  514 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  523 | flood_health | U.S. CDC -- Helping Children Cope with a Disaster | 403 | https://www.cdc.gov/children-and-school-preparedness/before-during-after/helping-children-cope.html
+  524 | flood_health | U.S. CDC -- Helping Children Cope with a Disaster | 403 | https://www.cdc.gov/children-and-school-preparedness/before-during-after/helping-children-cope.html
+  525 | flood_health | U.S. CDC -- Helping Children Cope with a Disaster | 403 | https://www.cdc.gov/children-and-school-preparedness/before-during-after/helping-children-cope.html
+  526 | flood_health | U.S. CDC -- Helping Children Cope with a Disaster | 403 | https://www.cdc.gov/children-and-school-preparedness/before-during-after/helping-children-cope.html
+  531 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  532 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  533 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  534 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  535 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  536 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  537 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  538 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  539 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  540 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  541 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  542 | flood_water | U.S. CDC -- How to Make Water Safe in an Emergency | 403 | https://www.cdc.gov/water-emergency/about/index.html
+  547 | evacuation | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  548 | evacuation | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  549 | evacuation | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  550 | evacuation | Ready.gov -- Floods: After a Flood | 403 | https://www.ready.gov/floods
+  551 | flood_after | U.S. CDC -- Mold: What to Wear Before Entering a Building with Mold Damage | 403 | https://www.cdc.gov/mold-health/communication-resources/what-to-wear.html
+  552 | flood_after | U.S. CDC -- Mold: What to Wear Before Entering a Building with Mold Damage | 403 | https://www.cdc.gov/mold-health/communication-resources/what-to-wear.html
+  553 | flood_after | U.S. CDC -- Mold: What to Wear Before Entering a Building with Mold Damage | 403 | https://www.cdc.gov/mold-health/communication-resources/what-to-wear.html
+  554 | flood_after | U.S. CDC -- Mold: What to Wear Before Entering a Building with Mold Damage | 403 | https://www.cdc.gov/mold-health/communication-resources/what-to-wear.html
+  571 | flood_health | U.S. CDC -- Preventing Leptospirosis after Hurricanes or Flooding | 403 | https://www.cdc.gov/leptospirosis/prevention/index.html
+  572 | flood_health | U.S. CDC -- Preventing Leptospirosis after Hurricanes or Flooding | 403 | https://www.cdc.gov/leptospirosis/prevention/index.html
+  573 | flood_health | U.S. CDC -- Preventing Leptospirosis after Hurricanes or Flooding | 403 | https://www.cdc.gov/leptospirosis/prevention/index.html
+  574 | flood_health | U.S. CDC -- Preventing Leptospirosis after Hurricanes or Flooding | 403 | https://www.cdc.gov/leptospirosis/prevention/index.html
+  579 | first_aid | U.S. CDC -- Tetanus: Clinical Guidance for Healthcare Providers | 403 | https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html
+  580 | first_aid | U.S. CDC -- Tetanus: Clinical Guidance for Healthcare Providers | 403 | https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html
+  581 | first_aid | U.S. CDC -- Tetanus: Clinical Guidance for Healthcare Providers | 403 | https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html
+  582 | first_aid | U.S. CDC -- Tetanus: Clinical Guidance for Healthcare Providers | 403 | https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html
+  587 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  588 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  589 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  590 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  591 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  592 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  593 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  594 | earthquake | Ready.gov -- Earthquakes | 403 | https://www.ready.gov/earthquakes
+  595 | earthquake | FEMA -- Earthquake Safety Checklist (B-526) | 403 | https://www.fema.gov/sites/default/files/documents/fema_b-526-eq-safety-checklist.pdf
+  596 | earthquake | FEMA -- Earthquake Safety Checklist (B-526) | 403 | https://www.fema.gov/sites/default/files/documents/fema_b-526-eq-safety-checklist.pdf
+  597 | earthquake | FEMA -- Earthquake Safety Checklist (B-526) | 403 | https://www.fema.gov/sites/default/files/documents/fema_b-526-eq-safety-checklist.pdf
+  598 | earthquake | FEMA -- Earthquake Safety Checklist (B-526) | 403 | https://www.fema.gov/sites/default/files/documents/fema_b-526-eq-safety-checklist.pdf
+  603 | landslide | Ready.gov -- Landslides & Debris Flow | 403 | https://www.ready.gov/landslides-debris-flow
+  604 | landslide | Ready.gov -- Landslides & Debris Flow | 403 | https://www.ready.gov/landslides-debris-flow
+  605 | landslide | Ready.gov -- Landslides & Debris Flow | 403 | https://www.ready.gov/landslides-debris-flow
+  606 | landslide | Ready.gov -- Landslides & Debris Flow | 403 | https://www.ready.gov/landslides-debris-flow
+  611 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  612 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  613 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  614 | cold_wave | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines | 403 | https://www.cdc.gov/winter-weather/prevention/index.html
+  615 | lightning | U.S. CDC -- Safety Guidelines: Lightning | 403 | https://www.cdc.gov/lightning/safety/index.html
+  616 | lightning | U.S. CDC -- Safety Guidelines: Lightning | 403 | https://www.cdc.gov/lightning/safety/index.html
+  617 | lightning | U.S. CDC -- Safety Guidelines: Lightning | 403 | https://www.cdc.gov/lightning/safety/index.html
+  618 | lightning | U.S. CDC -- Safety Guidelines: Lightning | 403 | https://www.cdc.gov/lightning/safety/index.html
+  619 | thunderstorm | Ready.gov -- Thunderstorms & Lightning | 403 | https://www.ready.gov/thunderstorms-lightning
+  620 | thunderstorm | Ready.gov -- Thunderstorms & Lightning | 403 | https://www.ready.gov/thunderstorms-lightning
+  621 | thunderstorm | Ready.gov -- Thunderstorms & Lightning | 403 | https://www.ready.gov/thunderstorms-lightning
+  622 | thunderstorm | Ready.gov -- Thunderstorms & Lightning | 403 | https://www.ready.gov/thunderstorms-lightning
+  627 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+  628 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+  629 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+  630 | child_safety | U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency | 403 | https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html
+
+10 URLs suggested for manual browser verification (spread across domains):
+  403 | https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef | WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement)
+  403 | https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all/bangladesh | UNDRR -- Early Warnings for All: Bangladesh (Cyclone Preparedness Programme)
+  403 | https://www.sciencedirect.com/org/science/article/pii/S2771037825000297 | Oceanography (ScienceDirect) -- Tropical cyclones over the Bay of Bengal review
+  403 | https://www.gfdrr.org/sites/default/files/2275_CycloneSidrinBangladeshExecutiveSummary.pdf | GFDRR / World Bank -- Cyclone Sidr in Bangladesh: Damage, Loss and Needs Assessment
+  403 | https://www.undrr.org/news/bangladesh-goes-beyond-cyclones | UNDRR News -- Bangladesh goes beyond cyclones
+  403 | https://www.ifrc.org/press-release/millions-bangladesh-impacted-one-worst-floodings-ever-seen | IFRC -- Millions in Bangladesh impacted by one of the worst floodings ever seen
+  403 | https://www.sciencedirect.com/science/article/pii/S277270762500089X | ScienceDirect -- The 2023 dengue fatality in Bangladesh: spatial and demographic patterns
+  403 | https://doi.org/10.1161/circulationaha.105.166565 | American Heart Association -- Guidelines 2005 Part 10.3: Drowning
+  403 | https://www.cdc.gov/winter-weather/prevention/index.html | U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines
+  403 | https://www.cdc.gov/disasters/hurricanes/pdf/woundcare.pdf | U.S. CDC -- Emergency Wound Care after a Natural Disaster
+
+NOTE: 403 usually = bot-block (fine in a real browser). 0 = timeout/TLS/conn error.
+
+HUMAN CONFIRMATION (2026-09-18): all 403-blocked URLs above were opened manually
+in a real browser and each returned the expected live page/PDF (title + content
+matched the cited source). Zero dead links across the whole dataset (116 distinct
+URLs; the single 404 found in the first automated pass was already replaced).

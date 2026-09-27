@@ -1,0 +1,116 @@
+200	https://unb.com.bd/category/Bangladesh/what-each-cyclone-warning-signal-means/103201	Bangladesh Meteorological Department (via UNB News)
+200	https://www.thedailystar.net/environment/weather/news/what-do-signals-1-11-mean-ports-during-storms-3317891	The Daily Star (What do signals 1-11 mean for ports during storms?)
+200	https://unb.com.bd/news/tag/87464	UNB News (Fight the Flood: Safety measures before/during/after floods)
+200	https://www.dhakatribune.com/bangladesh/350832/how-to-stay-safe-during-floods	Dhaka Tribune (How to stay safe during floods)
+200	https://unb.com.bd/category/Bangladesh/cautions-after-flood-water-recedes/141928	UNB News (Cautions after Flood Water Recedes)
+200	https://www.tbsnews.net/node/112174	The Business Standard (How to stay safe during floods)
+200	https://rohingyaresponse.org/wp-content/uploads/2026/07/Communication-Strategy-for-Cyclone-Preparedness-in-2021_CP-TWG-23.05.21.pdf	Cyclone Preparedness Programme (CPP) -- Communication and Preparedness Strategy (Cyclone Preparedness TWG)
+200	https://www.adrc.asia/documents/dm_information/BGD_SOD2019_English_FINAL.pdf	Government of Bangladesh -- Standing Orders on Disaster (SOD) 2019
+200	https://epinews.emphnet.net/en/news/preparing-for-the-next-flood-protecting-womens-health-in-bangladesh	UNFPA / UN News (Preparing for the next flood: Protecting women's health in Bangladesh)
+200	https://friendship.ngo/floods-in-bangladesh-and-friendships-response	The Financial Express / Friendship NGO (Bangladesh flood response reports)
+200	https://www.who.int/bangladesh/news/detail/04-11-2024-rising-waters--rising-challenges-who-s-response-to-severe-flooding-in-bangladesh	WHO Bangladesh (Rising waters, rising challenges -- WHO response to severe flooding in Bangladesh)
+200	https://ciprb.org/drowning-prevention	CIPRB (Centre for Injury Prevention and Research Bangladesh)
+200	https://public.wmo.int/media/news/new-list-of-names-issued-tropical-cyclones-over-north-indian-ocean	WMO -- New list of names issued for tropical cyclones over the North Indian Ocean
+200	https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ddm/2024/12/37997e0ce640405fa47b67569ad95b24.pdf	Government of Bangladesh -- Cyclone Shelter Policy 2011 (DDM)
+200	https://asiapacific.unwomen.org/sites/default/files/2025-02/bd-c1453-rga-cyclone-remal-2024_updated.pdf	UN Women -- Rapid Gender Analysis: Cyclone Remal, Bangladesh 2024
+200	https://asiapacific.unwomen.org/sites/default/files/Field%20Office%20ESEAsia/Docs/Publications/2020/06/RGA%20Cyclone%20Amphan%20Bangladesh%20revised%20%28002%29.pdf	UN Women -- Rapid Gender Analysis: Cyclone Amphan, Bangladesh (2020)
+200	https://bangladesh.unfpa.org/en/publications/safeguarding-menstrual-health-during-floods	UNFPA Bangladesh -- Safeguarding menstrual health during floods
+200	https://www.unocha.org/publications/report/bangladesh/bangladesh-floods-ocha-situation-report-no-1-1	UN OCHA -- Bangladesh floods situational report
+200	https://science.nasa.gov/earth/earth-observatory/rising-flood-risks-in-bangladesh-150274	NASA Earth Observatory -- Rising flood risks in Bangladesh
+200	http://old.ffwc.gov.bd/	FFWC (Flood Forecasting and Warning Centre), Bangladesh Water Development Board
+200	https://www.care.org/news-and-stories/before-the-floods-how-an-early-warning-is-saving-lives-in-bangladesh/	CARE International -- Before the floods: how an early warning is saving lives in Bangladesh
+200	https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-ddm/2024/12/fa46e6d4d9474a46b4dcf26c1e59c365.pdf	Government of Bangladesh -- National Plan for Disaster Management 2016-2020 (DDM)
+200	https://www.usgs.gov/faqs/what-should-i-do-during-earthquake	U.S. Geological Survey -- What should I do during an earthquake?
+200	https://en.prothomalo.com/bangladesh/kfff96myls	Prothom Alo (English) -- BMD heatwave classification
+200	https://cdn.who.int/media/docs/default-source/environment-climate-change-and-health/signs-of-heat-stroke.pdf?sfvrsn=96800ae4_1	WHO -- Signs of heat stroke and what to do
+200	https://nbph.iedcr.gov.bd/leptospirosis-surveillance/	IEDCR -- Leptospirosis surveillance, Bangladesh
+200	https://www.bbc.com/news/world-asia-67779223	BBC News (citing UN) -- Bangladesh lightning deaths
+200	https://www.dhakatribune.com/bangladesh/381613/lightning-strikes-with-deadly-impact	Dhaka Tribune -- Lightning strikes with deadly impact (DDM data)
+200	https://mdass.bmd.gov.bd/file/2025/05/21/pdf/187027.pdf	Bangladesh Meteorological Department -- Lightning Alert Message (Storm Warning Centre)
+200	https://en.banglapedia.org/index.php?title=Nor%E2%80%99wester	Banglapedia -- Nor'wester (Kal-baishakhi)
+200	https://weather.com/storms/tornado/news/deadliest-tornado-world-bangladesh-20140416	The Weather Channel (citing WMO) -- the world's deadliest tornado
+200	https://www.unocha.org/news/race-against-floods-bangladesh	UN OCHA -- A race against floods in Bangladesh
+200	https://www.tbsnews.net/bangladesh/govt-distributes-tk452cr-among-flood-affected-people-929546	The Business Standard -- Govt distributes Tk4.52cr among flood-affected people
+200	https://bangladesh.un.org/sites/default/files/2024-08/SitRep%2002%20Eastern%20Flash%20Flood.pdf	UN Bangladesh / HCTT -- Eastern Flash Floods 2024 Situation Report No. 02 (DGHS & DPHE data)
+200	https://www.who.int/bangladesh/news/feature-stories/item/from-outbreak-to-preparedness-protecting-rohingya-communities-against-cholera	WHO Bangladesh -- From Outbreak to Preparedness: Protecting Rohingya Communities Against Cholera
+200	https://www.bssnews.net/news/129940	DGHS guidance via Bangladesh Sangbad Sangstha (BSS) -- Aedes mosquito larvae
+200	https://www.who.int/news-room/fact-sheets/detail/drowning	WHO -- Drowning fact sheet
+200	https://www.redcross.org.uk/first-aid/learn-first-aid/drowning	British Red Cross -- Drowning first aid
+200	https://www.acep.org/wilderness/newsroom/newsroom-articles/oct2019/swiftwater-rescue-a-basic-introduction	American College of Emergency Physicians -- Swiftwater Rescue: A Basic Introduction
+200	https://www.anzcor.org/home/first-aid/guideline-9-3-2-resuscitation-in-drowning	Australian & NZ Committee on Resuscitation -- Guideline 9.3.2: Resuscitation in Drowning
+200	https://www.redcross.org/about-us/news-and-events/news/Prepare-Now-to-Be-Safe-During-an-Emergency.html	American Red Cross -- Be Red Cross Ready preparedness guidance
+200	https://www.anticipation-hub.org/Documents/EAPs/National_EAP_Cyclone_Bangladesh.pdf	Bangladesh Red Crescent Society / CPP -- National Early Action Protocol for Cyclone in Bangladesh
+200	https://www.itu.int/net4/wsis/archive/stocktaking/Project/Details?projectId=1514906121	ICT Division, Government of Bangladesh -- National Emergency Service 999
+200	https://fireservice.gov.bd/pages/static-pages/6922de2b933eb65569e18bc9	Bangladesh Fire Service & Civil Defence (official national portal)
+200	https://www.aoml.noaa.gov/hurricane_blog/25th-anniversary-of-chitagong-cyclone-2/	NOAA AOML -- 25th Anniversary of the Chittagong Cyclone (1991)
+200	https://www.aoml.noaa.gov/hurricane_blog/45th-anniversary-of-the-bhola-cyclone/	NOAA AOML -- 45th Anniversary of the Bhola Cyclone
+200	https://bmd.gov.bd/file/2016/08/17/pdf/21827.pdf	Bangladesh Meteorological Department -- Climate of Bangladesh (MET report 08/2016)
+200	https://en.banglapedia.org/index.php/Riverbank_Erosion	Banglapedia -- Riverbank Erosion
+200	https://www.weather.gov/abq/prepawaremonsoonflashfloods	U.S. National Weather Service -- Flash Floods and Flood Safety
+200	https://www.who.int/teams/control-of-neglected-tropical-diseases/snakebite-envenoming/treatment	WHO -- Snakebite envenoming: Treatment (First aid)
+200	https://www.who.int/news/item/15-10-2025-new-guidelines-on-community-hand-hygiene-to-help-governments-reduce-the-spread-of-infectious-diseases	WHO and UNICEF -- Guidelines on Hand Hygiene in Community Settings (2025)
+200	https://www.who.int/tools/elena/bbc/zinc-diarrhoea	WHO eLENA -- Zinc supplementation in the management of diarrhoea
+200	https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue	WHO -- Dengue and severe dengue (fact sheet)
+200	https://www.emro.who.int/cpi/publications/scabies-risk-communication-and-community-engagement-guidance.html	WHO EMRO -- Scabies: Risk communication and community engagement guidance (shelters)
+200	https://www.who.int/news-room/fact-sheets/detail/infant-and-young-child-feeding	WHO -- Infant and young child feeding (fact sheet)
+200	https://cdn.who.int/media/docs/default-source/newborn-health/kangaroo_mother_care_a_clinical_practice_guide.pdf	WHO -- Thermal protection of the newborn / Kangaroo mother care
+200	https://www.worldbank.org/en/results/2022/08/29/shelter-from-the-storm-protecting-bangladesh-s-coastal-communities-from-natural-disasters	World Bank -- Shelter from the Storm: Protecting Bangladesh's coastal communities
+200	https://interactive.spherestandards.org/	Sphere Association -- Sphere Handbook: WASH Standard 1 (Water supply)
+200	https://www.who.int/publications/i/item/9789241548205	WHO -- Psychological First Aid: Guide for Field Workers
+200	https://kaanpeteroi.org/helpline-service/	Kaan Pete Roi -- Helpline Service (official)
+200	https://www.aa.com.tr/en/asia-pacific/death-toll-from-boat-capsize-in-bangladesh-rises-to-51/2694497	Anadolu Agency -- Death toll from boat capsize in Bangladesh rises to 51 (2022)
+200	https://www.usgs.gov/faqs/what-do-i-do-after-earthquake	U.S. Geological Survey -- What do I do AFTER an earthquake?
+200	https://www.redcross.org/take-a-class/cpr/performing-cpr/cpr-steps.html	American Red Cross -- CPR Steps: How to Perform CPR
+200	https://www.redcross.org/take-a-class/resources/learn-first-aid/adult-child-choking	American Red Cross -- Adult & Child Choking: First Aid
+200	https://www.redcross.org.uk/first-aid/learn-first-aid/burns	British Red Cross -- Learn first aid for burns
+200	https://www.who.int/news-room/fact-sheets/detail/hepatitis-e	WHO -- Hepatitis E (fact sheet)
+200	https://www.who.int/bangladesh/news/detail/19-05-2026-mass-vaccination-campaign-protects-more-than-166-000-children-from-measles-in-rohingya-refugee-camps	WHO Bangladesh -- Mass measles vaccination campaign in Rohingya refugee camps
+200	https://www.who.int/news-room/fact-sheets/detail/typhoid	WHO -- Typhoid (fact sheet)
+200	https://www.weather.gov/safety/flood-turn-around-dont-drown	NOAA National Weather Service -- Turn Around Don't Drown
+200	https://iris.who.int/bitstream/handle/10665/67319/WHO_SDE_WSH_02.07.pdf	WHO -- Household Water Treatment and Safe Storage Following Emergencies and Disasters (2002)
+200	https://www.weather.gov/safety/hurricane-action	NOAA National Weather Service -- Hurricane safety: Actions to take
+200	https://www.weather.gov/safety/flood-after	NOAA National Weather Service -- Flood safety: After a Flood
+200	https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/earthquake.html	American Red Cross -- Earthquake Safety
+200	https://www.redcross.org/get-help/how-to-prepare-for-emergencies/survival-kit-supplies.html	American Red Cross -- What Do You Need in a Survival Kit?
+200	https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease	WHO -- Diarrhoeal disease (fact sheet)
+200	https://www.who.int/news-room/fact-sheets/detail/cholera	WHO -- Cholera (fact sheet)
+200	https://www.redcross.org/take-a-class/resources/learn-first-aid/wounds	American Red Cross -- Learn First Aid: Wounds
+200	https://www.usgs.gov/programs/landslide-hazards/what-are-signs-landslide-development-what-do-i-do-if-a-landslide-occurs	USGS -- Landslide Hazards Program FAQ: Signs of a landslide / What to do
+200	https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health	WHO -- Climate change: Heat and health (fact sheet)
+200	https://www.emro.who.int/cpi/publications/supporting-mental-health-and-psychosocial-well-being-in-emergencies-rcce-im-guidance-for-preparedness-and-response.html	WHO EMRO -- Supporting mental health and psychosocial well-being in emergencies (RCCE-IM guidance)
+202	https://reliefweb.int/attachments/f642f355-1b5c-423e-b724-de80ebaae814/UNICEF%20Bangladesh%20Humanitarian%20Situation%20Report%20No.%202%20%28Sylhet%20Floods%29%20-%2025%20June%202024.pdf	UNICEF Bangladesh -- Humanitarian Situation Report No. 2 (Sylhet floods, June 2024)
+202	https://reliefweb.int/sites/reliefweb.int/files/resources/Cyclone%20Amphan%20-%20Inclusive%20rapid%20needs%20assessment%20-%20Bangladesh%20Satkhira%2C%20Patuakhali%20and%20Bagerhat%20Districts%2C%20May%2023-25%2C%202020.pdf	CBM / CDD / DRRA / ADD -- Cyclone Amphan Inclusive Rapid Needs Assessment, Bangladesh (2020)
+202	https://reliefweb.int/report/bangladesh/bangladesh-needs-assessment-working-group-nawg-report-landslides-june-2017	UN Resident Coordinator Bangladesh (NAWG) -- Report on Landslides, June 2017 (via ReliefWeb)
+202	https://reliefweb.int/report/bangladesh/anticipatory-action-activation-bangladesh-july-2024	WFP -- Anticipatory Action Activation Bangladesh, July 2024 (via ReliefWeb)
+202	https://reliefweb.int/attachments/aa333113-4958-4d9f-b706-b69a4f2f9cb2/WASH%20Catalouge_English_21_01_23.pdf	UNICEF / WASH Cluster Bangladesh -- National Compendium of WASH Technologies for Disaster Response
+202	https://reliefweb.int/report/bangladesh/field-discussion-guide-cyclone-early-warning-procedures	Bangladesh Red Crescent -- Field Discussion Guide: Cyclone Early Warning Procedures (via ReliefWeb)
+403	https://www.unicef.org/bangladesh/en/press-releases/each-drowning-death-preventable-who-and-unicef	WHO and UNICEF Bangladesh (Each drowning death is preventable -- statement)
+403	https://www.undrr.org/implementing-sendai-framework/sendai-framework-action/early-warnings-for-all/bangladesh	UNDRR -- Early Warnings for All: Bangladesh (Cyclone Preparedness Programme)
+403	https://www.sciencedirect.com/org/science/article/pii/S2771037825000297	Oceanography (ScienceDirect) -- Tropical cyclones over the Bay of Bengal review
+403	https://www.gfdrr.org/sites/default/files/2275_CycloneSidrinBangladeshExecutiveSummary.pdf	GFDRR / World Bank -- Cyclone Sidr in Bangladesh: Damage, Loss and Needs Assessment
+403	https://www.undrr.org/news/bangladesh-goes-beyond-cyclones	UNDRR News -- Bangladesh goes beyond cyclones
+403	https://www.ifrc.org/press-release/millions-bangladesh-impacted-one-worst-floodings-ever-seen	IFRC -- Millions in Bangladesh impacted by one of the worst floodings ever seen
+403	https://www.sciencedirect.com/science/article/pii/S277270762500089X	ScienceDirect -- The 2023 dengue fatality in Bangladesh: spatial and demographic patterns
+403	https://doi.org/10.1161/circulationaha.105.166565	American Heart Association -- Guidelines 2005 Part 10.3: Drowning
+403	https://www.cdc.gov/winter-weather/prevention/index.html	U.S. CDC -- Winter Weather: Preventing Hypothermia / Safety Guidelines
+403	https://www.cdc.gov/disasters/hurricanes/pdf/woundcare.pdf	U.S. CDC -- Emergency Wound Care after a Natural Disaster
+403	https://www.cdc.gov/dengue/transmission/index.html	U.S. CDC -- How Dengue Spreads / Aedes Mosquito Life Cycle
+403	https://cdc.gov/infant-feeding-emergencies-toolkit/php/powdered-infant-formula.html	U.S. CDC -- Infant and Child Feeding in Emergencies Toolkit (powdered infant formula)
+403	https://www.cdc.gov/food-safety/foods/keep-food-safe-after-emergency.html	U.S. CDC -- Keep Food Safe After a Disaster or Emergency
+403	https://www.cdc.gov/mold/pdfs/homeowners_and_renters_guide.pdf	U.S. CDC / EPA -- Homeowner's and Renter's Guide to Mold Cleanup After Disasters
+403	https://newsnetwork.mayoclinic.org/discussion/home-remedies-immediate-first-aid-for-a-fracture/	Mayo Clinic News Network -- Immediate first aid for a fracture
+403	https://www.cdc.gov/water-emergency/about/index.html	U.S. CDC -- How to Make Water Safe in an Emergency
+403	https://www.ready.gov/floods	Ready.gov -- Floods: After a Flood
+403	https://www.ready.gov/kids/make-a-plan	Ready.gov -- Make a Plan (family emergency plan)
+403	https://www.cdc.gov/floods/safety/index.html	U.S. CDC -- Preparing for Floods
+403	https://www.cdc.gov/floods/safety/floodwater-after-a-disaster-or-emergency-safety.html	U.S. CDC -- Safety guidelines: Floodwater after a disaster or emergency
+403	https://www.ready.gov/earthquakes	Ready.gov -- Earthquakes
+403	https://www.cdc.gov/children-and-school-preparedness/before-during-after/helping-children-cope.html	U.S. CDC -- Helping Children Cope with a Disaster
+403	https://www.cdc.gov/mold-health/communication-resources/what-to-wear.html	U.S. CDC -- Mold: What to Wear Before Entering a Building with Mold Damage
+403	https://www.cdc.gov/leptospirosis/prevention/index.html	U.S. CDC -- Preventing Leptospirosis after Hurricanes or Flooding
+403	https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html	U.S. CDC -- Tetanus: Clinical Guidance for Healthcare Providers
+403	https://www.fema.gov/sites/default/files/documents/fema_b-526-eq-safety-checklist.pdf	FEMA -- Earthquake Safety Checklist (B-526)
+403	https://www.ready.gov/landslides-debris-flow	Ready.gov -- Landslides & Debris Flow
+403	https://www.cdc.gov/lightning/safety/index.html	U.S. CDC -- Safety Guidelines: Lightning
+403	https://www.ready.gov/thunderstorms-lightning	Ready.gov -- Thunderstorms & Lightning
+HTTP 404	https://documents1.worldbank.org/curated/en/099723103192439629/pdf/IDU179d76e0918933142351b96016227408641eb.pdf	World Bank -- Jamuna River Sustainable Management Project 1 (Project Appraisal Document)

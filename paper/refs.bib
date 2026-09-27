@@ -1,0 +1,234 @@
+% refs.bib — bibliographic sources for ICCIT2026.tex
+% POLICY (supervisor requirement): peer-reviewed publications only. No arXiv
+% preprints, no workshop papers, no non-peer-reviewed technical reports.
+% Every entry below corresponds to one of the 20 PDFs in the sibling
+% `related papers` folder, and every entry is free to download:
+%   * ACL Anthology      -> https://aclanthology.org/<anthology-id>/
+%   * PMLR (ICML/CoRL)   -> https://proceedings.mlr.press/
+%   * MLSys              -> https://proceedings.mlsys.org/
+%   * AAAI OJS           -> https://ojs.aaai.org/
+%   * IEEE Access        -> open access
+%   * MIT Press CL       -> https://aclanthology.org/J08-4004.pdf (author copy)
+% Venue coverage: IEEE Access, ACL, NAACL, EMNLP, EACL, LREC-COLING, COLING,
+% IJCNLP-APACL, AAAI, ICML, MLSys, CoRL, SOSP, Computational Linguistics.
+% The Llama-3.2/Gemma-3/Qwen3 checkpoints are distributed as version-tagged
+% model releases and therefore have no bibliographic entry; provenance is
+% given in Section III-B by exact runtime tag instead.
+% SPACE: entries with 4+ authors are truncated to three plus `others`, which
+% IEEEtran renders as `et al.` This keeps the reference list inside the
+% six-page budget. Entries with <=3 authors list all authors.
+% NOTE: local file paths are kept as plain %-comments (not a bib `note` field)
+% because IEEEtran typesets `note` inline, and the long underscore-heavy
+% filenames have no break points -- in the two-column IEEE layout they
+% overrun the column width instead of wrapping. Comments never print.
+
+% ---------- Efficient / on-device inference and quantization ----------
+% Local copy: related papers/2312.12456v2.pdf
+@inproceedings{powerinfer,
+  author    = {Song, Yixin and Mi, Zeyu and Xie, Haotong and Chen, Haibo},
+  title     = {{PowerInfer}: Fast Large Language Model Serving with a Consumer-grade {GPU}},
+  booktitle = {Proceedings of the ACM Symposium on Operating Systems Principles (SOSP '24)},
+  year      = {2024},
+  doi       = {10.1145/3694715.3695964}
+}
+
+% Local copy: related papers/MLSys-2024-awq-activation-aware-weight-quantization-for-on-device-llm-compression-.pdf
+@inproceedings{awq,
+  author    = {Lin, Ji and Tang, Jiaming and Tang, Haotian and others},
+  title     = {{AWQ}: Activation-aware Weight Quantization for On-Device {LLM} Compression and Acceleration},
+  booktitle = {Proceedings of the 7th Conference on Machine Learning and Systems (MLSys '24)},
+  year      = {2024},
+  url       = {https://proceedings.mlsys.org/paper_files/paper/2024/hash/42a452cbafa9dd64e9ba4aa95cc1ef21-Abstract-Conference.html}
+}
+
+% Local copy: related papers/xiao23c.pdf
+@inproceedings{smoothquant,
+  author    = {Xiao, Guangxuan and Lin, Ji and Seznec, Mickael and others},
+  title     = {{SmoothQuant}: Accurate and Efficient Post-Training Quantization for Large Language Models},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning (ICML '23)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {202},
+  pages     = {38087--38099},
+  year      = {2023},
+  url       = {https://proceedings.mlr.press/v202/xiao23c.html}
+}
+
+% Local copy: related papers/2024.findings-emnlp.570.pdf
+@inproceedings{mobilequant,
+  author    = {Tan, Fuwen and Lee, Royson and Dudziak, {\L}ukasz and others},
+  title     = {{MobileQuant}: Mobile-friendly Quantization for On-device Language Models},
+  booktitle = {Findings of EMNLP 2024},
+  pages     = {9761--9771},
+  year      = {2024},
+  doi       = {10.18653/v1/2024.findings-emnlp.570}
+}
+
+% Local copy: related papers/09594-AAAI24.ShenX.pdf
+@article{agilequant,
+  author  = {Shen, Xuan and Dong, Peiyan and Lu, Lei and others},
+  title   = {{Agile-Quant}: Activation-Guided Quantization for Faster Inference of {LLM}s on the Edge},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume  = {38},
+  number  = {17},
+  pages   = {18944--18951},
+  year    = {2024},
+  doi     = {10.1609/aaai.v38i17.29860}
+}
+
+% ---------- Non-answerability, hallucination, refusal, calibration ----------
+% Local copy: related papers/P18-2124.pdf
+@inproceedings{squad2,
+  author    = {Rajpurkar, Pranav and Jia, Robin and Liang, Percy},
+  title     = {Know What You Don't Know: Unanswerable Questions for {SQuAD}},
+  booktitle = {Proceedings of EMNLP 2018 (Short Papers)},
+  pages     = {784--789},
+  year      = {2018},
+  doi       = {10.18653/v1/D18-1257}
+}
+
+% Local copy: related papers/2024.acl-long.586.pdf
+@inproceedings{halueval2,
+  author    = {Li, Junyi and Chen, Jie and Ren, Ruiyang and others},
+  title     = {The Dawn After the Dark: An Empirical Study on Factuality Hallucination in Large Language Models},
+  booktitle = {Proceedings of ACL 2024 (Volume 1: Long Papers)},
+  pages     = {10879--10899},
+  year      = {2024},
+  doi       = {10.18653/v1/2024.acl-long.586}
+}
+
+% Local copy: related papers/2023.emnlp-main.557.pdf
+@inproceedings{selfcheckgpt,
+  author    = {Manakul, Potsawee and Liusie, Adian and Gales, Mark J. F.},
+  title     = {{SelfCheckGPT}: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models},
+  booktitle = {Proceedings of EMNLP 2023},
+  pages     = {9004--9017},
+  year      = {2023},
+  doi       = {10.18653/v1/2023.emnlp-main.557}
+}
+
+% Local copy: related papers/2024.naacl-long.301.pdf
+@inproceedings{xstest,
+  author    = {R{\"o}ttger, Paul and Kirk, Hannah Rose and Vidgen, Bertie and others},
+  title     = {{XSTest}: A Test Suite for Identifying Exaggerated Safety Behaviours in Large Language Models},
+  booktitle = {Proceedings of NAACL-HLT 2024 (Volume 1: Long Papers)},
+  pages     = {5377--5400},
+  year      = {2024},
+  doi       = {10.18653/v1/2024.naacl-long.301}
+}
+
+% Local copy: related papers/ren23a.pdf
+@inproceedings{knowno,
+  author    = {Ren, Allen Z. and Dixit, Anushri and Bodrova, Alexandra and others},
+  title     = {Robots That Ask For Help: Uncertainty Alignment for Large Language Model Planners},
+  booktitle = {Proceedings of the 7th Conference on Robot Learning (CoRL '23)},
+  series    = {Proceedings of Machine Learning Research},
+  volume    = {229},
+  pages     = {661--682},
+  year      = {2023},
+  url       = {https://proceedings.mlr.press/v229/ren23a.html}
+}
+
+% Local copy: related papers/J08-4004.pdf
+@article{iaa,
+  author  = {Artstein, Ron and Poesio, Massimo},
+  title   = {Inter-Coder Agreement for Computational Linguistics},
+  journal = {Computational Linguistics},
+  volume  = {34},
+  number  = {4},
+  pages   = {555--596},
+  year    = {2008},
+  doi     = {10.1162/coli.07-034-r2}
+}
+
+% ---------- Bangla language technology ----------
+% Local copy: related papers/2022.findings-naacl.98.pdf
+@inproceedings{banglabert,
+  author    = {Bhattacharjee, Abhik and Hasan, Tahmid and Ahmad, Wasi Uddin and others},
+  title     = {Bangla{BERT}: Language Model Pretraining and Benchmarks for Low-Resource Language Understanding Evaluation in {Bangla}},
+  booktitle = {Findings of NAACL 2022},
+  pages     = {1318--1327},
+  year      = {2022},
+  doi       = {10.18653/v1/2022.findings-naacl.98}
+}
+
+% Local copy: related papers/Bangla-BERT_Transformer-Based_Efficient_Model_for_Transfer_Learning_and_Language_Understanding.pdf
+@article{banglabert_ieee,
+  author  = {Kowsher, Md and Sami, Abdullah As and Prottasha, Nusrat Jahan and others},
+  title   = {Bangla-{BERT}: Transformer-Based Efficient Model for Transfer Learning and Language Understanding},
+  journal = {IEEE Access},
+  volume  = {10},
+  pages   = {91855--91870},
+  year    = {2022},
+  doi     = {10.1109/ACCESS.2022.3197662}
+}
+
+% Local copy: related papers/2023.findings-eacl.54.pdf
+@inproceedings{banglanlg,
+  author    = {Bhattacharjee, Abhik and Hasan, Tahmid and Ahmad, Wasi Uddin and Shahriyar, Rifat},
+  title     = {{B}angla{NLG} and {B}angla{T5}: Benchmarks and Resources for Evaluating Low-Resource Natural Language Generation in {B}angla},
+  booktitle = {Findings of EACL 2023},
+  pages     = {726--735},
+  year      = {2023},
+  doi       = {10.18653/v1/2023.findings-eacl.54}
+}
+
+% Local copy: related papers/2023.ijcnlp-main.29.pdf
+@inproceedings{banglaqa,
+  author    = {Shahriar, Md Shihab and Chowdhury, Ahmad Al Fayad and Ehsan, Md. Amimul and Kamal, Abu Raihan},
+  title     = {Question Answer Generation in {B}engali: Mitigating the Scarcity of {QA} Datasets in a Low-Resource Language},
+  booktitle = {Proceedings of IJCNLP-APACL 2023 (Volume 1: Long Papers)},
+  pages     = {430--441},
+  year      = {2023},
+  doi       = {10.18653/v1/2023.ijcnlp-main.29}
+}
+
+% Local copy: related papers/2024.findings-acl.68.pdf
+@inproceedings{benqa,
+  author    = {Shafayat, Sheikh and Hasan, H. M. Quamran and Chowdhury, Minhajur Rahman and others},
+  title     = {{BEnQA}: A Question Answering Benchmark for {B}engali and {E}nglish},
+  booktitle = {Findings of ACL 2024},
+  pages     = {1158--1177},
+  year      = {2024},
+  doi       = {10.18653/v1/2024.findings-acl.68}
+}
+
+% Local copy: related papers/2024.lrec-main.201.pdf
+@inproceedings{benllm,
+  author    = {Kabir, Mohsinul and Islam, Mohammed Saidul and Laskar, Md Tahmid Rahman and others},
+  title     = {{BenLLM}-Eval: A Comprehensive Evaluation into the Potentials and Pitfalls of Large Language Models on {B}engali {NLP}},
+  booktitle = {Proceedings of LREC-COLING 2024},
+  pages     = {2238--2252},
+  year      = {2024},
+  doi       = {10.18653/v1/2024.lrec-main.201}
+}
+
+% Local copy: related papers/2025.findings-acl.1279.pdf
+@inproceedings{titullm,
+  author    = {Nahin, Shahriar Kabir and Nandi, Rabindra Nath and Sarker, Sagor and others},
+  title     = {{TituLLMs}: A Family of Bangla {LLM}s with Comprehensive Benchmarking},
+  booktitle = {Findings of ACL 2025},
+  pages     = {24922--24940},
+  year      = {2025},
+  doi       = {10.18653/v1/2025.findings-acl.1279}
+}
+
+% Local copy: related papers/2025.coling-main.79.pdf
+@inproceedings{toolate,
+  author    = {Mahfuz, Tamzeed and Dey, Satak Kumar and Naswan, Ruwad and others},
+  title     = {Too Late to Train, Too Early To Use? A Study on Necessity and Viability of Low-Resource {B}engali {LLM}s},
+  booktitle = {Proceedings of COLING 2025},
+  pages     = {1183--1200},
+  year      = {2025},
+  url       = {https://aclanthology.org/2025.coling-main.79/}
+}
+
+% ---------- Disaster / crisis NLP ----------
+% Local copy: related papers/2023.emnlp-main.471.pdf
+@inproceedings{disastermultimodal,
+  author    = {Basit, Mohammad Abdul and Shaikh, Salman Ghufran and Alam, Bashir and Fatima, Zubaida},
+  title     = {Natural Disaster Tweets Classification Using Multimodal Data},
+  booktitle = {Proceedings of EMNLP 2023},
+  pages     = {7584--7594},
+  year      = {2023},
+  doi       = {10.18653/v1/2023.emnlp-main.471}
+}

@@ -1,0 +1,41 @@
+MODEL: titulm-v1.1-3b
+ROWS: 634
+CE_THRESHOLD: 0.0 (provisional - calibrate on review set)
+ACC (correct rate): 0.2303
+EXACT rate: 0.0000
+F1 mean: 0.1391
+CE mean: -1.1091
+CE median: -1.3762
+
+BY SAFETY LABEL (acc, n):
+  high: 0.3311  (n=151)
+  low: 0.1992  (n=236)
+  medium: 0.1984  (n=247)
+
+BY CATEGORY (acc, n):
+  child_safety: 0.2069  (n=29)
+  cold_wave: 0.1667  (n=12)
+  cyclone_prep: 0.2857  (n=14)
+  cyclone_response: 0.2188  (n=32)
+  cyclone_signal: 0.5510  (n=49)
+  early_warning: 0.2500  (n=4)
+  earthquake: 0.1562  (n=32)
+  emergency_contact: 0.2500  (n=8)
+  evacuation: 0.4444  (n=18)
+  first_aid: 0.2143  (n=56)
+  flood_after: 0.1724  (n=29)
+  flood_health: 0.1789  (n=123)
+  flood_prep: 0.2647  (n=34)
+  flood_risk: 0.3000  (n=20)
+  flood_water: 0.1569  (n=51)
+  heatwave: 0.1875  (n=16)
+  landslide: 0.1250  (n=16)
+  lightning: 0.1250  (n=16)
+  livestock: 0.2000  (n=5)
+  relief: 0.0000  (n=12)
+  river_erosion: 0.2500  (n=8)
+  shelter: 0.3333  (n=21)
+  thunderstorm: 0.0833  (n=12)
+  vulnerable_groups: 0.2353  (n=17)
+
+DANGER rows (high-safety & wrong): 101

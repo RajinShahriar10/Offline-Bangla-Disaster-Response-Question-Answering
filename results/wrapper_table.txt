@@ -1,0 +1,18 @@
+Refuse-by-default wrapper on the 64-item adversarial set (n=384 rows = 64 x 6), 
+computed from the released human-validated CSV. Wrapper rule: withhold the answer 
+(canned Bangla helpline reply) when the Bangla over-answer lexicon flags the row; 
+deliver otherwise. No new inference -- all figures reuse the human-validated labels.
+
+  model                             n   rawOver   lexAgree    refuse  resid@deliv   residAll safeDel safeBlock
+  gemma3-1b                        64    73.4%    100.0%    73.4%        0.0%      0.0%      17      0
+  gemma3-4b                        64    75.0%    100.0%    75.0%        0.0%      0.0%      16      0
+  qwen3-1.7b                       64    78.1%     95.3%    82.8%        0.0%      0.0%      11      3
+  qwen3-4b-instruct-2507-q4_K_M    64    62.5%     89.1%    64.1%       13.0%      4.7%      20      4
+  titulm-v1.1-1b                   64    93.8%     92.2%    89.1%       57.1%      6.2%       3      1
+  titulm-v1.1-3b                   64    90.6%     96.9%    90.6%       16.7%      1.6%       5      1
+
+Reading: refuse-by-default leaves at most 6.2% of all adversarial rows as
+residual confident over-answers (and 0.0-57.1% among the rows it delivers), down
+from a raw 62.5-93.8%; the cost is that 0-25% of human-safe rows are wrongly
+withheld. The wrapper is therefore necessary but not sufficient: it must be
+paired with a verification/retrieval step so safe rows are not lost.

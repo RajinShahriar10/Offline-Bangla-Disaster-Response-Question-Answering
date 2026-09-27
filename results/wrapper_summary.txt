@@ -1,0 +1,12 @@
+
+model                          n rawOverRate lexAgreeRate refuseShare residOverRate residOverAmongDelivered safeRefusedS
+                                                                                                                    hare
+-----                          - ----------- ------------ ----------- ------------- ----------------------- ------------
+gemma3-1b                     64        0.73            1        0.73             0                       0            0
+gemma3-4b                     64        0.75            1        0.75             0                       0            0
+qwen3-1.7b                    64        0.78         0.95        0.83             0                       0         0.21
+qwen3-4b-instruct-2507-q4_K_M 64        0.62         0.89        0.64          0.05                    0.13         0.17
+titulm-v1.1-1b                64        0.94         0.92        0.89          0.06                    0.57         0.25
+titulm-v1.1-3b                64        0.91         0.97        0.91          0.02                    0.17         0.17
+
+

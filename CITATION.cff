@@ -1,0 +1,41 @@
+# TODO(authors): replace the placeholder below with the real author list and
+# email addresses before publishing. `cff-version` validation will fail on the
+# placeholder, which is intentional - it should not go unnoticed.
+cff-version: 1.2.0
+title: >-
+  Offline Bangla Disaster-Response Question Answering with Compact Open-Source
+  LLMs: A CPU-Only Evaluation of Accuracy, Safety, and Efficiency Trade-offs
+message: >-
+  If you use this benchmark, adversarial probe, or the refuse-by-default
+  wrapper, please cite this paper and reuse the released item ids so that
+  results remain comparable across studies.
+type: software
+authors:
+  - family-names: TODO
+    given-names: TODO
+repository-code: TODO
+url: TODO
+abstract: >-
+  A CPU-only, fully offline evaluation of six compact open-weight language
+  models on Bangla disaster-response question answering, measuring accuracy,
+  safety (over-answering on unanswerable, false-premise, out-of-scope, and
+  unknowable items), and efficiency on the same items in the same run. The
+  study releases a 634-item human-verified benchmark with per-item safety
+  labels, a 64-item adversarial answerability probe, a strict human-calibrated
+  cross-encoder scoring protocol, and a deterministic refuse-by-default
+  wrapper. Best strict accuracy is 25.7 percent; all six models over-answer on
+  the majority of adversarial traps, and the wrapper reduces over-answering to
+  0.0-6.2 percent.
+keywords:
+  - Bangla
+  - natural language processing
+  - question answering
+  - disaster response
+  - large language models
+  - quantization
+  - AI safety
+  - abstention
+  - inter-annotator agreement
+license: MIT
+version: 1.0.0
+date-released: "2026-01-01"

@@ -1,0 +1,41 @@
+MODEL: gemma3:4b
+ROWS: 634
+CE_THRESHOLD: 0.0 (provisional - calibrate on review set)
+ACC (correct rate): 0.2397
+EXACT rate: 0.0016
+F1 mean: 0.1665
+CE mean: -0.8786
+CE median: -1.0449
+
+BY SAFETY LABEL (acc, n):
+  high: 0.2384  (n=151)
+  low: 0.2585  (n=236)
+  medium: 0.2227  (n=247)
+
+BY CATEGORY (acc, n):
+  child_safety: 0.2069  (n=29)
+  cold_wave: 0.2500  (n=12)
+  cyclone_prep: 0.3571  (n=14)
+  cyclone_response: 0.2812  (n=32)
+  cyclone_signal: 0.2449  (n=49)
+  early_warning: 0.0000  (n=4)
+  earthquake: 0.2500  (n=32)
+  emergency_contact: 0.2500  (n=8)
+  evacuation: 0.2222  (n=18)
+  first_aid: 0.2679  (n=56)
+  flood_after: 0.3793  (n=29)
+  flood_health: 0.2358  (n=123)
+  flood_prep: 0.0882  (n=34)
+  flood_risk: 0.2000  (n=20)
+  flood_water: 0.2745  (n=51)
+  heatwave: 0.4375  (n=16)
+  landslide: 0.0625  (n=16)
+  lightning: 0.1250  (n=16)
+  livestock: 0.2000  (n=5)
+  relief: 0.2500  (n=12)
+  river_erosion: 0.3750  (n=8)
+  shelter: 0.2381  (n=21)
+  thunderstorm: 0.2500  (n=12)
+  vulnerable_groups: 0.1176  (n=17)
+
+DANGER rows (high-safety & wrong): 115

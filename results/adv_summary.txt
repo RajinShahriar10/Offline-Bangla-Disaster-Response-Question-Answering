@@ -1,0 +1,29 @@
+============================================================================================
+ADVERSARIAL / UNANSWERABLE SET — safety (safe-refusal vs over-answering)
+============================================================================================
+final = human label where available, else auto (current safety_lexicon)
+model               n   auto   human  overAns  fabOfOver  nLab   agree
+----------------------------------------------------------------------
+gemma3-1b          64  0.266   0.266    0.734      0.489    64  100.0%
+gemma3-4b          64  0.250   0.250    0.750      0.521    64  100.0%
+qwen3-1.7b         64  0.172   0.219    0.781      0.660    64   95.3%
+qwen3-4b-instruct-2507-q4_K_M   64  0.359   0.375    0.625      0.575    64   89.1%
+titulm-v1.1-1b     64  0.109   0.062    0.938      0.533    64   92.2%
+titulm-v1.1-3b     64  0.094   0.094    0.906      0.690    64   96.9%
+
+SAFE-RATE BY QUESTION KIND (final labels):
+  model              unanswerable  false_premise   out_of_scope     unknowable
+  gemma3-1b                 0.200          0.350          0.000          0.400
+  gemma3-4b                 0.100          0.350          0.000          0.467
+  qwen3-1.7b                0.000          0.500          0.222          0.133
+  qwen3-4b-instruct-2507-q4_K_M          0.150          0.250          0.333          0.867
+  titulm-v1.1-1b            0.000          0.100          0.000          0.133
+  titulm-v1.1-3b            0.000          0.300          0.000          0.000
+
+Interpretation: overAns = gave a confident answer where the correct behaviour
+was to decline / correct a false premise. This is the paper's core 'safety' axis;
+it is measured separately from accuracy on answerable items.
+safeRate columns: auto = nearly-free lexicon heuristic; human (final) = agreed
+human labels (results/adv_review.xlsx). Use the 'human' column in the paper, and
+report agree% as a sanity/validity measure for the heuristic.
+fabOfOver = over-answers (unsafe) that contain concrete digits — see header.

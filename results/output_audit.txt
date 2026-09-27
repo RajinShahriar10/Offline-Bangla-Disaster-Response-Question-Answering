@@ -1,0 +1,71 @@
+====================================================================================================
+OUTPUT AUDIT — completeness + eval_count / cap-pinning check
+====================================================================================================
+Main benchmark set (expected 634 rows, ok, unique, no dups):
+[gemma3-1b]
+    rows=634  ok=634  unique_ids=634  dup_ids=0  missing_vs_expected=0
+    eval_count: n=634 min=3 max=267 mean=17 std=20.6
+    CAP PINNING: rows at exactly 128 = 1 (0.2%) | rows at exactly 512 = 0 (0.0%)
+    max-fraction at a single cap = 0.2% 
+[gemma3-4b]
+    rows=634  ok=634  unique_ids=634  dup_ids=0  missing_vs_expected=0
+    eval_count: n=634 min=3 max=512 mean=20 std=26.0
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 1 (0.2%)
+    max-fraction at a single cap = 0.2% 
+[qwen3-1.7b]
+    rows=634  ok=634  unique_ids=634  dup_ids=0  missing_vs_expected=0
+    eval_count: n=634 min=2 max=512 mean=140 std=137.7
+    CAP PINNING: rows at exactly 128 = 1 (0.2%) | rows at exactly 512 = 62 (9.8%)
+    max-fraction at a single cap = 9.8% 
+[qwen3-4b-instruct-2507-q4_K_M]
+    rows=634  ok=634  unique_ids=634  dup_ids=0  missing_vs_expected=0
+    eval_count: n=634 min=0 max=512 mean=138 std=123.7
+    CAP PINNING: rows at exactly 128 = 3 (0.5%) | rows at exactly 512 = 40 (6.3%)
+    max-fraction at a single cap = 6.3% 
+[titulm-v1.1-1b]
+    rows=634  ok=634  unique_ids=634  dup_ids=0  missing_vs_expected=0
+    eval_count: n=634 min=128 max=512 mean=511 std=15.2
+    CAP PINNING: rows at exactly 128 = 1 (0.2%) | rows at exactly 512 = 633 (99.8%)
+    max-fraction at a single cap = 99.8% <-- VERIFY (hard pin possible, esp. base models that never emit EOS)
+[titulm-v1.1-3b]
+    rows=634  ok=634  unique_ids=634  dup_ids=0  missing_vs_expected=0
+    eval_count: n=634 min=512 max=512 mean=512 std=0.0
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 634 (100.0%)
+    max-fraction at a single cap = 100.0% <-- VERIFY (hard pin possible, esp. base models that never emit EOS)
+
+Adversarial set (64 items per model, 2 passes already archived):
+[gemma3-1b]
+    rows=64  ok=64  unique_ids=64  dup_ids=0  missing_vs_expected=0
+    eval_count: n=64 min=4 max=71 mean=16 std=12.2
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 0 (0.0%)
+    max-fraction at a single cap = 0.0% 
+[gemma3-4b]
+    rows=64  ok=64  unique_ids=64  dup_ids=0  missing_vs_expected=0
+    eval_count: n=64 min=3 max=102 mean=17 std=15.6
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 0 (0.0%)
+    max-fraction at a single cap = 0.0% 
+[qwen3-1.7b]
+    rows=64  ok=64  unique_ids=64  dup_ids=0  missing_vs_expected=0
+    eval_count: n=64 min=3 max=512 mean=102 std=98.1
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 2 (3.1%)
+    max-fraction at a single cap = 3.1% 
+[qwen3-4b-instruct-2507-q4_K_M]
+    rows=64  ok=64  unique_ids=64  dup_ids=0  missing_vs_expected=0
+    eval_count: n=64 min=3 max=512 mean=119 std=106.9
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 1 (1.6%)
+    max-fraction at a single cap = 1.6% 
+[titulm-v1.1-1b]
+    rows=64  ok=64  unique_ids=64  dup_ids=0  missing_vs_expected=0
+    eval_count: n=64 min=192 max=512 mean=467 std=111.2
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 55 (85.9%)
+    max-fraction at a single cap = 85.9% <-- VERIFY (hard pin possible, esp. base models that never emit EOS)
+[titulm-v1.1-3b]
+    rows=64  ok=64  unique_ids=64  dup_ids=0  missing_vs_expected=0
+    eval_count: n=64 min=512 max=512 mean=512 std=0.0
+    CAP PINNING: rows at exactly 128 = 0 (0.0%) | rows at exactly 512 = 64 (100.0%)
+    max-fraction at a single cap = 100.0% <-- VERIFY (hard pin possible, esp. base models that never emit EOS)
+
+READ THIS: a single cap 'pin' >50% with std low means the response budget is
+being exhausted every time. For instruct models this is a bug. For base models
+(TituLM v1.x) that never emit EOS it is expected behaviour and was validated not
+to distort the CE accuracy metric (30-row pilot: ACC unchanged at 0.233).

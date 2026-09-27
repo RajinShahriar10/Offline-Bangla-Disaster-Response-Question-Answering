@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environments / venv
+.venv/
+venv/
+env/
+
+# Model weights (large; re-downloadable)
+.cache/
+hf_cache/
+fastembed_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+
+# NOTE: paper/ICCIT2026.tex compiles to a PDF whose name begins with the
+# project title. Build output is ignored; only the .tex and .bib are tracked.
+
+# Annotation workbooks: regenerable via src/make_*_xlsx.py; CSVs carry the same labels
+*.xlsx
+
